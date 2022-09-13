@@ -1,0 +1,3 @@
+IPHONE_NUMBER='18800431863'
+URL='http://121.40.138.226:8000/snippets/'
+uuid='fe957afa-b55c-11ec-aa29-00163e17d203'
